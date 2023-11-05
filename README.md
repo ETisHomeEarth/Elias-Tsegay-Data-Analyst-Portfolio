@@ -7,5 +7,5 @@
     Set up and transformed data
     Used VLOOKUP to create an age bracket for each employee
     Made pivot tables and charts
-    Created a dashboard and ddded slicers with multiple connections
+    Created a dashboard and added slicers with multiple connections
     Answered the question "Are there any patterns in leave-taking behavior among employees?"
