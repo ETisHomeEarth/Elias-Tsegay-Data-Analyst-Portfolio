@@ -1,7 +1,7 @@
 # Elias Tsegay Excel Project using Bike Sales (data cleaning and dashboard creation)
-    Set up and Cleaned Data
-    Made Pivot Tables
-    Created a Dashboard and Added Slicers
+    Set up and cleaned data
+    Made pivot tables
+    Created a dashboard and added slicers
 
 # Elias Tsegay Excel Project using Employee Data Kaggle (data visualisation, VLOOKUP, and dashboard creation)
     Set up and transformed data
