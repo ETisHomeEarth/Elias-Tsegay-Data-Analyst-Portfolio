@@ -1,11 +1,11 @@
-## Excel Projects
+# Excel Projects
 
-# Using Bike Sales Data (data cleaning and dashboard creation)
+## Using Bike Sales Data (data cleaning and dashboard creation)
     Set up and cleaned data
     Made pivot tables
     Created a dashboard and added slicers
 
-# Using Employee Data from Kaggle (data visualisation, VLOOKUP, and dashboard creation)
+## Using Employee Data from Kaggle (data visualisation, VLOOKUP, and dashboard creation)
     Set up and transformed data
     Used VLOOKUP to create an age bracket for each employee
     Made pivot tables and charts
