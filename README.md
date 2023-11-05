@@ -3,7 +3,7 @@
     Made pivot tables
     Created a dashboard and added slicers
 
-# Elias Tsegay Excel Project using Employee Data Kaggle (data visualisation, VLOOKUP, and dashboard creation)
+# Elias Tsegay Excel Project using Employee Dataset from Kaggle (data visualisation, VLOOKUP, and dashboard creation)
     Set up and transformed data
     Used VLOOKUP to create an age bracket for each employee
     Made pivot tables and charts
