@@ -21,4 +21,4 @@
         Split and created new coloumns for easier visualisation
     Created a interactive dashboard to breakdown survey takers
         Mutliple visuals
-        Drill down for added context
+        Drill down available for added context
