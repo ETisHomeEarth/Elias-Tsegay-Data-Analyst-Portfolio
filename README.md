@@ -15,7 +15,7 @@
 
 # Power BI Projects
 
-## Data Professional Survey (transforming data using Power Query, and data visualisation)
+## Data Professional Survey Data (transforming data using Power Query, and data visualisation)
     Set up and transformed data
         Ensured consistent data types
         Split and created new coloumns for easier visualisation
