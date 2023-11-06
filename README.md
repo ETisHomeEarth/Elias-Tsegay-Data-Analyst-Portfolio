@@ -15,7 +15,7 @@
 
 # Power BI Projects
 
-## Data Professional Survey Data (transforming data using Power Query, and data visualisation)
+## Data Professional Survey Data  (Power Query, DAX, and visualisation)
     Set up and transformed and cleaned data with power query
         Ensured consistent data types
         Split and created new columns for easier visualisation
@@ -24,7 +24,7 @@
         Mutliple visuals
         Drill down available for added context
 
-## Elias Tsegay Power BI Data Professional Survey (transforming using Power Query, DAX, and visualisation)
+## HR Data Staff Breakdown (power query, creating metrics, visualisation, and DAX)
     Set up data and cleaned data with Power Query
     Created new measures using count, average, etc with Power Pivot)
     Adding new columns (age groups, first letters)
