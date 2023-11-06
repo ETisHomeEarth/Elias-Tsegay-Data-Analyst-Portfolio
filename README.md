@@ -6,7 +6,7 @@
     Created a dashboard and added slicers
 
 ## Employee Data from Kaggle (data visualisation, VLOOKUP, and dashboard creation)
-    Set up and transformed
+    Set up and transformed data
     Used VLOOKUP to create an age bracket for each employee
     Made pivot tables and charts
     Created a dashboard and added slicers with multiple connections
@@ -16,7 +16,7 @@
 # Power BI Projects
 
 ## Data Professional Survey Data  (Power Query, DAX, and visualisation)
-    Set up and transformed and cleaned data with power query
+    Set up and cleaned data with power query
         Ensured consistent data types
         Split and created new columns for easier visualisation
     Created new measures
