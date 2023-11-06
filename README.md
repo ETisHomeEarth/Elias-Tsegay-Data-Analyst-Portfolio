@@ -18,7 +18,7 @@
 ## Data Professional Survey Data (transforming data using Power Query, and data visualisation)
     Set up and transformed data
         Ensured consistent data types
-        Split and created new coloumns for easier visualisation
+        Split and created new columns for easier visualisation
     Created a interactive dashboard to breakdown survey takers
         Mutliple visuals
         Drill down available for added context
