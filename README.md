@@ -24,7 +24,7 @@
         Mutliple visuals
         Drill down available for added context
 
-## HR Data Staff Breakdown (power query, creating metrics, visualisation, and DAX)
+## HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
     Set up data and cleaned data with Power Query
     Created new measures using count, average, etc with Power Pivot)
     Adding new columns (age groups, first letters)
