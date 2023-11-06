@@ -11,3 +11,14 @@
     Made pivot tables and charts
     Created a dashboard and added slicers with multiple connections
     Answered the question "Are there any patterns in leave-taking behavior among employees?"
+
+
+# Power BI Projects
+
+## Power BI Data Professional Survey (transforming data using Power Query, and data visualisation)
+    Set up and transformed data
+        Ensured consistent data types
+        Split and created new coloumns for easier visualisation
+    Created a interactive dashboard to breakdown survey takers
+        Mutliple visuals
+        Drill through for added context
