@@ -12,6 +12,14 @@
     Created a dashboard and added slicers with multiple connections
     Answered the question "Are there any patterns in leave-taking behavior among employees?"
 
+## Sales Data Financial Goal Tracker (power query, XLOOKUP, data modelling, conditional formatting) (Repaired)
+    Set up the data using power query
+    SUBTOTAL and CHOOSECOL were used to dynamically represent filtered data (sales sheet)
+    XLOOKUP was used to find cost (sales sheet)
+    Conditional formatting to show any significance
+    Dynamic visualisations (doughnut chart) illustrates progress made towards any profit goal
+    Interactive histogram displays the individuals within each team
+
 
 # Power BI Projects
 
