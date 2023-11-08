@@ -14,11 +14,13 @@
 
 ## Sales Data Financial Goal Tracker (power query, XLOOKUP, data modelling, conditional formatting) (Repaired)
     Set up the data using power query
-    SUBTOTAL and CHOOSECOL were used to dynamically represent filtered data (sales sheet)
-    XLOOKUP was used to find cost (sales sheet)
+    SUBTOTAL and CHOOSECOL were used to dynamically represent filtered data (workingsheet sales)
+    SUMIF was used to find the profit of each country (workingsheet locations)
+    XLOOKUP was used to find cost (workingsheet sales) and most profitable region/country (workingsheet locations)
     Conditional formatting to show any significance
     Dynamic visualisations (doughnut chart) illustrates progress made towards any profit goal
     Interactive histogram displays the individuals within each team
+    Dashboard creation (Financial Goal Tracker)
 
 
 # Power BI Projects
@@ -38,4 +40,4 @@
     Adding new columns (age groups, first letters)
     Created relationships in model view between salary and education qualification
     Advanced DAX calculations including cumulative headcount and counting leave balances above 20 days
-    Dashboard creation customising multiple visuals
+    Dashboard creation customising multiple visuals (HR Dashboard)
