@@ -17,7 +17,7 @@
     SUBTOTAL and CHOOSECOL were used to dynamically represent filtered data (workingsheet sales)
     SUMIF was used to find the profit of each country (workingsheet locations)
     XLOOKUP was used to find cost (workingsheet sales) and most profitable region/country (workingsheet locations)
-    Conditional formatting to show any significance
+    Pivot tables and conditional formatting to visually show significance
     Dynamic visualisations (doughnut chart) illustrates progress made towards any profit goal
     Interactive histogram displays the individuals within each team
     Dashboard creation (Financial Goal Tracker)
