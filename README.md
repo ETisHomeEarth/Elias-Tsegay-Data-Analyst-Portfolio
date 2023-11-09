@@ -32,7 +32,7 @@
     Set up data with power query
         Delimiters to split columns to simplifiy unique entries into Other
         Found average salary in a range
-            Split columns by non-digit/digit (checked data types); used Custom columns to find the average between min and max of the range
+            Split salary range coloumn by non-digit/digit (checked data types); used Custom columns to find the average
         Checked data types
     Created new measures
     Created a interactive dashboard to breakdown survey takers
