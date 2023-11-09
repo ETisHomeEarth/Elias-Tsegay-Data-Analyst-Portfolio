@@ -16,7 +16,7 @@
     Answered the question "Are there any patterns in leave-taking behavior among employees?"
 
 ## Sales Data Financial Goal Tracker (power query, XLOOKUP, data modelling, conditional formatting)
-    Set up data
+    Set up data and created relationships between tables
     SUBTOTAL and CHOOSECOL were used to dynamically represent filtered data (workingsheet sales)
     SUMIF was used to find the profit of each country (workingsheet locations)
     XLOOKUP was used to find cost (workingsheet sales) and most profitable region/country (workingsheet locations)
@@ -41,7 +41,7 @@
 
 ## HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
     Set up data with Power Query (Checked data types)
-    Created new measures using count, average, etc with Power Pivot)
+    Created new measures using count, average, etc with Power Pivot
     Adding new columns (age groups, first letters)
     Created relationships in model view between salary and education qualification
     Advanced DAX calculations including cumulative headcount and counting leave balances above 20 days
