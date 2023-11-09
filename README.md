@@ -2,6 +2,9 @@
 
 ## Bike Sales Data GUIDED (data cleaning and dashboard creation)
     Set up and cleaned data
+        Removed duplicates
+        Replace shortened text entries (S) into its full text (Single)
+        IF statement to sort the Age coloumn into groups
     Made pivot tables
     Created a dashboard and added slicers
 
@@ -13,7 +16,7 @@
     Answered the question "Are there any patterns in leave-taking behavior among employees?"
 
 ## Sales Data Financial Goal Tracker (power query, XLOOKUP, data modelling, conditional formatting)
-    Set up the data using power query
+    Set up data
     SUBTOTAL and CHOOSECOL were used to dynamically represent filtered data (workingsheet sales)
     SUMIF was used to find the profit of each country (workingsheet locations)
     XLOOKUP was used to find cost (workingsheet sales) and most profitable region/country (workingsheet locations)
@@ -26,16 +29,18 @@
 # Power BI Projects
 
 ## Data Professional Survey Data (Power Query, DAX, and visualisation)
-    Set up and cleaned data with power query
-        Ensured consistent data types
-        Split and created new columns for easier visualisation
+    Set up data with power query
+        Delimiters to split columns to simplifiy unique entries into Other
+        Found average salary in a range
+            Split columns by non-digit/digit (checked data types); used Custom columns to find the average between min and max of the range
+        Checked data types
     Created new measures
     Created a interactive dashboard to breakdown survey takers
         Mutliple visuals
         Drill down available for added context
 
 ## HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
-    Set up data and cleaned data with Power Query
+    Set up data with Power Query (Checked data types)
     Created new measures using count, average, etc with Power Pivot)
     Adding new columns (age groups, first letters)
     Created relationships in model view between salary and education qualification
