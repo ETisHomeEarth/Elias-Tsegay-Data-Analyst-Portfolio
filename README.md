@@ -25,7 +25,7 @@
 
 # Power BI Projects
 
-## Data Professional Survey Data GUIDED (Power Query, DAX, and visualisation)
+## Data Professional Survey Data (Power Query, DAX, and visualisation)
     Set up and cleaned data with power query
         Ensured consistent data types
         Split and created new columns for easier visualisation
