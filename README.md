@@ -42,7 +42,7 @@
 ## HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
     Set up data with Power Query (Checked data types)
     Created new measures using count, average, etc with Power Pivot
-    Adding new columns (age groups, first letters)
+    Adding new columns (age groups using bins, first letters using functions)
     Created relationships in model view between salary and education qualification
     Advanced DAX calculations including cumulative headcount and counting leave balances above 20 days
     Dashboard creation customising multiple visuals (HR Dashboard)
