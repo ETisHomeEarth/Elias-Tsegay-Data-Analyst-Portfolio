@@ -1,6 +1,6 @@
 # Excel Projects
 
-## Bike Sales Data GUIDED (data cleaning and dashboard creation)
+## 1 Bike Sales Data GUIDED (data cleaning and dashboard creation)
     Set up and cleaned data
         Removed duplicates
         Replace shortened text entries (S) into its full text (Single)
@@ -8,14 +8,14 @@
     Made pivot tables
     Created a dashboard and added slicers
 
-## Employee Data from Kaggle (data visualisation, VLOOKUP, and dashboard creation)
+## 2 Employee Data from Kaggle (data visualisation, VLOOKUP, and dashboard creation)
     Set up and transformed data
     Used VLOOKUP to create an age bracket for each employee
     Made pivot tables and charts
     Created a dashboard and added slicers with multiple connections
     Answered the question "Are there any patterns in leave-taking behavior among employees?"
 
-## Sales Data Financial Goal Tracker (power query, XLOOKUP, data modelling, conditional formatting)
+## 3 Financial Goal Tracker (power query, XLOOKUP, data modelling, conditional formatting)
     Set up data and created relationships between tables
     SUBTOTAL and CHOOSECOL were used to dynamically represent filtered data (workingsheet sales)
     SUMIF was used to find the profit of each country (workingsheet locations)
@@ -25,10 +25,16 @@
     Interactive histogram displays the individuals within each team
     Interactive Dashboard with buttons for tables plus KPIs, a contact list and info support
 
+## 4 Customer Sales Data (analysing data, VLOOKUP, Pivot Tables, Dashboard)
+    Set up data in a table and removed all unreliable data (under 18s, family size 8+ [only 2 entries], and blanks)
+    Pivot tables and slicers were used along with XLOOKUP, SUBTOTAL, etc to find dynamic values for the 4 textbox values
+    Multiple dynamic visuals formatted consistently and included a filters panels
+    Data analysed on myportfolio website
+
 
 # Power BI Projects
 
-## Data Professional Survey Data (Power Query, DAX, and visualisation)
+## 4 Data Professional Survey Data (Power Query, DAX, and visualisation)
     Set up data with power query
         Delimiters to split columns to simplifiy unique entries into Other
         Found average salary in a range
@@ -39,7 +45,7 @@
         Mutliple visuals
         Drill down available for added context
 
-## HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
+## 5 HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
     Set up data with Power Query (Checked data types)
     Created new measures using count, average, etc with Power Pivot
     Adding new columns (age groups using bins, first letters using functions)
