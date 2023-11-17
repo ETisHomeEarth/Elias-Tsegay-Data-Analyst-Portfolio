@@ -23,7 +23,7 @@
     Pivot tables and conditional formatting to visually show significance
     Dynamic visualisations (doughnut chart) illustrates progress made towards any profit goal
     Interactive histogram displays the individuals within each team
-    Dashboard creation (Financial Goal Tracker)
+    Interactive Dashboard with buttons for tables plus KPIs, a contact list and info support
 
 
 # Power BI Projects
