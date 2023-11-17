@@ -34,7 +34,7 @@
 
 # Power BI Projects
 
-## 4 Data Professional Survey Data (Power Query, DAX, and visualisation)
+## 1 Data Professional Survey Data (Power Query, DAX, and visualisation)
     Set up data with power query
         Delimiters to split columns to simplifiy unique entries into Other
         Found average salary in a range
@@ -45,7 +45,7 @@
         Mutliple visuals
         Drill down available for added context
 
-## 5 HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
+## 2 HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
     Set up data with Power Query (Checked data types)
     Created new measures using count, average, etc with Power Pivot
     Adding new columns (age groups using bins, first letters using functions)
