@@ -52,3 +52,8 @@
     Created relationships in model view between salary and education qualification
     Advanced DAX calculations including cumulative headcount and counting leave balances above 20 days
     Dashboard creation customising multiple visuals (HR Dashboard)
+
+## 3
+    Set up data with Power Query
+        CLAIM, changed SEX to text values
+    Using Dax added INSR_LENGTH using DATEDIFF, found TOTAL_PREMIUM
