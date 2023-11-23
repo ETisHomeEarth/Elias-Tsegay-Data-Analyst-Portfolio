@@ -34,7 +34,7 @@
 
 # Power BI Projects
 
-## 1 Data Professional Survey Data (Power Query, DAX, and visualisation)
+## 1 Data Professional Survey Data (Power Query, DAX)
     Set up data with power query
         Delimiters to split columns to simplifiy unique entries into Other
         Found average salary in a range
@@ -45,7 +45,7 @@
         Mutliple visuals
         Drill down available for added context
 
-## 2 HR Data Staff Breakdown (power query, creating metrics, visualisation, and advanced DAX)
+## 2 HR Data Staff Breakdown (power query, creating metrics, and advanced DAX)
     Set up data with Power Query (Checked data types)
     Created new measures using count, average, etc with Power Pivot
     Adding new columns (age groups using bins, first letters using functions)
@@ -53,7 +53,9 @@
     Advanced DAX calculations including cumulative headcount and counting leave balances above 20 days
     Dashboard creation customising multiple visuals (HR Dashboard)
 
-## 3
+## 3 Motor Insurance Data (power query, DAX, analysing Data)
     Set up data with Power Query
-        CLAIM, changed SEX to text values
-    Using Dax added INSR_LENGTH using DATEDIFF, found TOTAL_PREMIUM
+        Found CLAIM using column from example, changed SEX to text values, found TOTAL_PREMIUM using calculations
+    Through DAX added INSR_LENGTH using DATEDIFF, found SURPLUS using SUM
+    Dashboard creation customising multiple visuals (Motor Insurance Dashboard)
+        Drill down for more detail
