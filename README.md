@@ -14,6 +14,7 @@
     Made pivot tables and charts
     Created a dashboard and added slicers with multiple connections
     Answered the question "Are there any patterns in leave-taking behavior among employees?"
+    Data analysed on myportfolio website
 
 ## 3 Financial Goal Tracker (power query, XLOOKUP, data modelling, conditional formatting)
     Set up data and created relationships between tables
@@ -59,3 +60,4 @@
     Through DAX added INSR_LENGTH using DATEDIFF, found SURPLUS using SUM
     Dashboard creation customising multiple visuals (Motor Insurance Dashboard)
         Drill down for more detail
+    Data analysed on myportfolio website
