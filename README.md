@@ -57,7 +57,8 @@
 ## 3 Motor Insurance Data (power query, DAX, analysing Data)
     Set up data with Power Query
         Found CLAIM using column from example, changed SEX to text values, found TOTAL_PREMIUM using calculations
-    Through DAX added INSR_LENGTH using DATEDIFF, found SURPLUS using SUM
+    Using DAX added INSR_LENGTH using DATEDIFF, found SURPLUS using SUM
+    Advanced DAX - found ratio using VAR, DIVIDE, CONCATENATE and ROUND
     Dashboard creation customising multiple visuals (Motor Insurance Dashboard)
         Drill down for more detail
     Data analysed on myportfolio website
